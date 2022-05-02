@@ -8,7 +8,7 @@ Software Engineer with 1 year of industry experience using multiple technologies
 
 * 🌍  I'm based in San Diego | Los Angeles | San Francisco | Remote
 * 🖥️  See my portfolio at [Usman Asim](http://usmanasim.com)
-* ✉️  You can contact me at [usmanasim27@gmail.com | uasim@ucsd.edu](mailto:usmanasim27@gmail.com | uasim@ucsd.edu )
+* ✉️  You can contact me at [usmanasim27@gmail.com | uasim@ucsd.edu]
 * 🤝  I'm open to collaborating on groundbreaking projects.
 
 <a href="https://www.twitter.com/asimfiles" target="_blank" rel="noreferrer"><img
