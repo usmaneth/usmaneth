@@ -1,4 +1,4 @@
-Hi 👋 My name is Usman Asim (usmanasim.eth)
+Hi 👋 My name is Usman (usmanasim.eth)
 ===========================================
 
 Software Engineer | Blockchain Developer | Web 3.0 Enthusiast
