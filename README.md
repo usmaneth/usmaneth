@@ -1,10 +1,10 @@
 Hi 👋 My name is Usman (usmanasim.eth)
 ===========================================
 
-Software Engineer | Blockchain Developer | Web 3.0 Enthusiast
+Developer Relations | Software Engineer | Blockchain Developer | Web 3.0 Enthusiast
 -------------------------------------------------------------
 
-Software Engineer with 1 year of industry experience using multiple technologies.
+Software Engineer with 2 years of industry experience using multiple technologies.
 
 * 🌍  I'm based in San Diego | Los Angeles | San Francisco | Remote
 * 🖥️  See my portfolio at [Usman Asim](http://usmanasim.com)
