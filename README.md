@@ -1,7 +1,7 @@
 Hi 👋 My name is Usman (usmanasim.eth)
 ===========================================
 
-Developer Relations | Software Engineer | Blockchain Developer | Web 3.0 Enthusiast
+Developer Relations Engineer @ Ava Labs 
 -------------------------------------------------------------
 
 Software Engineer with 2 years of industry experience using multiple technologies.
