@@ -8,7 +8,7 @@ Software Engineer with 2 years of industry experience using multiple technologie
 
 * 🌍  I'm based in San Diego | Los Angeles | San Francisco | Remote
 * 🖥️  See my portfolio at [Usman Asim](http://usmanasim.com)
-* ✉️  You can contact me at [usman.asim@chainstack.com | uasim@ucsd.edu]
+* ✉️  You can contact me at [usman.asim@avalabs.org | uasim@ucsd.edu]
 * 🤝  I'm open to collaborating on groundbreaking projects. 
 
 <a href="https://www.twitter.com/asimfiles" target="_blank" rel="noreferrer"><img
