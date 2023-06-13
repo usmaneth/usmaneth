@@ -4,7 +4,7 @@ Hi 👋 My name is Usman (usmanasim.eth)
 Developer Relations Engineer @ Ava Labs 
 -------------------------------------------------------------
 
-Software Engineer with 2 years of industry experience using multiple technologies.
+Software Engineer with 3 years of industry experience using multiple technologies.
 
 * 🌍  I'm based in San Diego | Los Angeles | San Francisco | Remote
 * 🖥️  See my portfolio at [Usman Asim](http://usmanasim.com)
