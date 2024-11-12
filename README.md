@@ -4,8 +4,8 @@ Developer Relations Engineer @ https://www.alchemy.com
 ------------------------------------------------
 Software Engineer/Developer Relations Engineer with 4 years of industry experience using multiple technologies.
 
-* 🌍  I'm based in San Diego | Los Angeles | San Francisco | Remote
-* 🖥️  See my portfolio at [Usman Asim](http://usmanasim.com)
+* 🌍  I'm based in San Francisco | San Diego | Los Angeles | Remote
+* 🖥️  Website at [Usman Asim](http://usmanasim.com)
 * ✉️  You can contact me at [usman.asim@avalabs.org ]
 * Previous employers:
      - [https://avalabs.org](https://www.avalabs.org)
