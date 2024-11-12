@@ -1,7 +1,7 @@
 Hi 👋 My name is Usman (usmanasim.eth)
 ===========================================
 
-Developer Relations Engineer @ Ava Labs 
+Developer Relations Engineer @ Alchemy 
 -------------------------------------------------------------
 
 Software Engineer with 3 years of industry experience using multiple technologies.
@@ -9,6 +9,10 @@ Software Engineer with 3 years of industry experience using multiple technologie
 * 🌍  I'm based in San Diego | Los Angeles | San Francisco | Remote
 * 🖥️  See my portfolio at [Usman Asim](http://usmanasim.com)
 * ✉️  You can contact me at [usman.asim@avalabs.org ]
+* Previous employers:
+     - [https://avalabs.org](https://www.avalabs.org)
+     - [https://chainstack.com](https://chainstack.com)
+     - [https://jpmorgan](https://www.jpmorgan.com/global)
 
 
 <a href="https://www.twitter.com/asimfiles" target="_blank" rel="noreferrer"><img
