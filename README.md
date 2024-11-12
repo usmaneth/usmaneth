@@ -12,7 +12,7 @@ Software Engineer with 3 years of industry experience using multiple technologie
 * Previous employers:
      - [https://avalabs.org](https://www.avalabs.org)
      - [https://chainstack.com](https://chainstack.com)
-     - [https://jpmorgan](https://www.jpmorgan.com/global)
+     - [https://jpmorgan.com](https://www.jpmorgan.com/global)
 
 
 <a href="https://www.twitter.com/asimfiles" target="_blank" rel="noreferrer"><img
