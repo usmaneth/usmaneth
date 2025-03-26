@@ -1,6 +1,6 @@
 Hi 👋 My name is Usman (usmanasim.eth)
 ===========================================
-Developer Relations Engineer @ https://www.alchemy.com
+Senior Developer Relations Engineer @ https://www.alchemy.com
 ------------------------------------------------
 Software Engineer/Developer Relations Engineer with 4 years of industry experience using multiple technologies.
 
