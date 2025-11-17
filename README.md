@@ -1,4 +1,4 @@
-Hi 👋 My name is Usman (usmanasim.eth)
+My name is Usman (usmanasim.eth)
 ===========================================
 Senior Developer Relations Engineer @ https://www.alchemy.com
 ------------------------------------------------
