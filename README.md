@@ -1,7 +1,5 @@
 My name is Usman (usmanasim.eth)
 ===========================================
-Senior Developer Relations Engineer @ https://www.alchemy.com
-------------------------------------------------
 Software Engineer/Developer Relations Engineer with 4 years of industry experience using multiple technologies.
 
 * Based in San Francisco | San Diego | Los Angeles | Remote
@@ -9,6 +7,7 @@ Software Engineer/Developer Relations Engineer with 4 years of industry experien
 * You can contact me at [usman@alchemy.com]
 * Previous employers:
      - [https://avalabs.org](https://www.avalabs.org)
+     - [https://alchemy.com](https://www.alchemy.com)
      - [https://chainstack.com](https://chainstack.com)
      - [https://jpmorgan.com](https://www.jpmorgan.com/global)
 
