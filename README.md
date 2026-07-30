@@ -1,6 +1,6 @@
 My name is Usman (usmanasim.eth)
 ===========================================
-Software Engineer/Developer Relations Engineer with 4 years of industry experience using multiple technologies.
+Software Engineer/Developer Relations Engineer
 
 * Based in San Francisco | San Diego | Los Angeles | Remote
 * Website at [Usman Asim](http://usmanasim.com)
